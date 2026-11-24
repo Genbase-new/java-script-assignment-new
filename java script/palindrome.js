@@ -5,8 +5,8 @@ for (char of word){
 	reverseWord = char + reverseWord;
 }
 if (reverseWord === word){
-	console.log ("It is a a palindrome")
+	console.log ("It is palindrome")
 }
 else {
-	console.log("It is not  a palindrome")
+	console.log("It is not  palindrome")
 }
